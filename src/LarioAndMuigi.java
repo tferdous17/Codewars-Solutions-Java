@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class LarioAndMuigi {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // Main method just for printing the output
         int[] numbers = {-1,7,4};
         System.out.println(Arrays.toString(pipeFix(numbers)));
     }
