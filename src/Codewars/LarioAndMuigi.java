@@ -1,3 +1,5 @@
+package Codewars;
+
 import java.util.Arrays;
 
 public class LarioAndMuigi {
