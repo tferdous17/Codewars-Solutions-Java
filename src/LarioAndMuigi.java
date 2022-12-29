@@ -6,7 +6,6 @@ public class LarioAndMuigi {
         System.out.println(Arrays.toString(pipeFix(numbers)));
     }
     public static int[] pipeFix(int[] numbers) {
-        // Fix the pipes!
         int counter = 0;
         int min = numbers[0];
         int max = numbers[numbers.length-1];
